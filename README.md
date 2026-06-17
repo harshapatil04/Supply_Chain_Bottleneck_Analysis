@@ -16,8 +16,6 @@ This dashboard analyzes sales performance, revenue trends, and regional performa
 - DAX
 - Power Query
 
-## Dashboard Preview
-(Add screenshots here)
 
 ## Author
 Harsha Patil
